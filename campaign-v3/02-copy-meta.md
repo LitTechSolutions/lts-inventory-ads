@@ -26,9 +26,9 @@ Use A or C as default. Use B when pairing with `linkedin-number.png` language or
 
 Know what you have — and where it went. LTS Inventory tracks products, lots, serials, receiving, and stock history. Start a 7-day Essentials trial. No card. $49 per month after the trial.
 
-### Primary B — explain the number (154)
+### Primary B — explain the number (176)
 
-A spreadsheet can tell you a number. It cannot tell you why. LTS Inventory is inventory you can explain. Start a 7-day Essentials trial. No card required.
+A spreadsheet can tell you a number. It cannot tell you why. LTS Inventory is inventory you can explain. Start a 7-day Essentials trial. No card. $49 per month after the trial.
 
 ### Primary C — short, under recommended truncation (111)
 
@@ -62,7 +62,7 @@ Pairing: H1 or H3 with product stills; H4 or H5 with `facebook-trial.png`.
 |---|---|---|
 | D1 | 7-day trial. No card. | 21/30 |
 | D2 | Lots, serials, history. | 23/30 |
-| D3 | Essentials from $49/mo. | 23/30 |
+| D3 | Essentials is $49/mo. | 21/30 |
 | D4 | No card. $49/mo after. | 22/30 |
 
 ---

@@ -19,8 +19,8 @@ UTM: utm_source=meta&utm_medium=paid-social&utm_campaign=lts-inv-essentials-tria
 Primary text A (187):
 Know what you have — and where it went. LTS Inventory tracks products, lots, serials, receiving, and stock history. Start a 7-day Essentials trial. No card. $49 per month after the trial.
 
-Primary text B (154):
-A spreadsheet can tell you a number. It cannot tell you why. LTS Inventory is inventory you can explain. Start a 7-day Essentials trial. No card required.
+Primary text B (176):
+A spreadsheet can tell you a number. It cannot tell you why. LTS Inventory is inventory you can explain. Start a 7-day Essentials trial. No card. $49 per month after the trial.
 
 Primary text C (111):
 Know what you have. Know where it went. Start a 7-day Essentials trial of LTS Inventory. No card. $49/mo after.
@@ -40,7 +40,7 @@ Start Essentials free.              (22)
 Descriptions (30):
 7-day trial. No card.               (21)
 Lots, serials, history.             (23)
-Essentials from $49/mo.             (23)
+Essentials is $49/mo.               (21)
 No card. $49/mo after.              (22)
 
 Images: facebook-trial.png, ig-feed-know.png, ig-feed-went.png,
@@ -56,8 +56,8 @@ UTM: utm_source=linkedin&utm_medium=paid-social&utm_campaign=lts-inv-essentials-
 Intro A (193):
 Inventory you can explain. LTS Inventory tracks products, lots, serials, receiving, counts, returns, and stock history. Start Essentials free for 7 days. No card. $49 per month after the trial.
 
-Intro B (183):
-Shops outgrow clipboards and spreadsheets. LTS Inventory tracks products, lots, serials, receiving, and stock history you can review. Start a 7-day Essentials trial. No card required.
+Intro B (205):
+Shops outgrow clipboards and spreadsheets. LTS Inventory tracks products, lots, serials, receiving, and stock history you can review. Start a 7-day Essentials trial. No card. $49 per month after the trial.
 
 Intro C (128):
 Know what you have — and where it went. Start a 7-day Essentials trial of LTS Inventory. No card. $49 per month after the trial.
@@ -93,7 +93,7 @@ LTS Inventory                   (13)
 7 days free. $49/mo             (19)
 Stock you can explain           (21)
 Receiving and history           (21)
-Essentials from $49/mo          (22)
+Essentials is $49/mo            (21)
 Know where stock went           (21)
 
 Descriptions (90) — paste all:
@@ -123,3 +123,38 @@ Know what you have and where it went. 7-day Essentials trial. No card. (70)
 Descriptions (90):
 7-day Essentials trial. No card. $49 per month after the trial. (63)
 Track lots, serials, receiving, and stock history. No card to start. (68)
+
+
+READY-TO-PASTE DESTINATIONS
+---------------------------
+Approved host only. Do not send this flight to lit-solutions.tech.
+Replace nothing except the utm_content stem when duplicating a URL.
+
+Meta / Instagram / Facebook (paid-social):
+https://inventory.lit-solutions.tech?utm_source=meta&utm_medium=paid-social&utm_campaign=lts-inv-essentials-trial-v3&utm_content=facebook-trial
+https://inventory.lit-solutions.tech?utm_source=meta&utm_medium=paid-social&utm_campaign=lts-inv-essentials-trial-v3&utm_content=ig-feed-know
+https://inventory.lit-solutions.tech?utm_source=meta&utm_medium=paid-social&utm_campaign=lts-inv-essentials-trial-v3&utm_content=ig-feed-went
+https://inventory.lit-solutions.tech?utm_source=meta&utm_medium=paid-social&utm_campaign=lts-inv-essentials-trial-v3&utm_content=ig-portrait-receive
+https://inventory.lit-solutions.tech?utm_source=meta&utm_medium=paid-social&utm_campaign=lts-inv-essentials-trial-v3&utm_content=ig-story-find
+https://inventory.lit-solutions.tech?utm_source=meta&utm_medium=paid-social&utm_campaign=lts-inv-essentials-trial-v3&utm_content=ig-story-scan
+
+LinkedIn (paid-social):
+https://inventory.lit-solutions.tech?utm_source=linkedin&utm_medium=paid-social&utm_campaign=lts-inv-essentials-trial-v3&utm_content=linkedin-square
+https://inventory.lit-solutions.tech?utm_source=linkedin&utm_medium=paid-social&utm_campaign=lts-inv-essentials-trial-v3&utm_content=linkedin-number
+https://inventory.lit-solutions.tech?utm_source=linkedin&utm_medium=paid-social&utm_campaign=lts-inv-essentials-trial-v3&utm_content=facebook-trial
+
+Google Search (cpc):
+https://inventory.lit-solutions.tech?utm_source=google&utm_medium=cpc&utm_campaign=lts-inv-essentials-trial-v3&utm_content=rsa-essentials
+
+Google Display:
+https://inventory.lit-solutions.tech?utm_source=google&utm_medium=display&utm_campaign=lts-inv-essentials-trial-v3&utm_content=google-728x90
+https://inventory.lit-solutions.tech?utm_source=google&utm_medium=display&utm_campaign=lts-inv-essentials-trial-v3&utm_content=google-300x250
+https://inventory.lit-solutions.tech?utm_source=google&utm_medium=display&utm_campaign=lts-inv-essentials-trial-v3&utm_content=google-160x600
+https://inventory.lit-solutions.tech?utm_source=google&utm_medium=display&utm_campaign=lts-inv-essentials-trial-v3&utm_content=google-320x50
+https://inventory.lit-solutions.tech?utm_source=google&utm_medium=display&utm_campaign=lts-inv-essentials-trial-v3&utm_content=facebook-trial
+
+Signup path (same host; use only if the console needs the trial-start URL):
+https://inventory.lit-solutions.tech/api/auth/login?mode=signup
+Keep the same utm_* query string after mode=signup.
+
+Do not launch, enable, or attach spend from this sheet.

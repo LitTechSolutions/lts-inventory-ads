@@ -31,7 +31,7 @@ Leave remaining headlines unpinned.
 | 11 | 7 days free. $49/mo | 19/30 |
 | 12 | Stock you can explain | 21/30 |
 | 13 | Receiving and history | 21/30 |
-| 14 | Essentials from $49/mo | 22/30 |
+| 14 | Essentials is $49/mo | 21/30 |
 | 15 | Know where stock went | 21/30 |
 
 ### Descriptions (90) — paste all 4

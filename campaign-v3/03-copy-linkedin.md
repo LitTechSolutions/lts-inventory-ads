@@ -21,9 +21,9 @@ Recommended CTA: **Sign up**. Alternate: **Learn more**.
 
 Inventory you can explain. LTS Inventory tracks products, lots, serials, receiving, counts, returns, and stock history. Start Essentials free for 7 days. No card. $49 per month after the trial.
 
-### Intro B — clipboard / spreadsheet (183)
+### Intro B — clipboard / spreadsheet (205)
 
-Shops outgrow clipboards and spreadsheets. LTS Inventory tracks products, lots, serials, receiving, and stock history you can review. Start a 7-day Essentials trial. No card required.
+Shops outgrow clipboards and spreadsheets. LTS Inventory tracks products, lots, serials, receiving, and stock history you can review. Start a 7-day Essentials trial. No card. $49 per month after the trial.
 
 ### Intro C — short, under “see more” (128)
 

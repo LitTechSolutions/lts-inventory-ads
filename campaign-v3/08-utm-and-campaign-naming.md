@@ -81,6 +81,8 @@ Auth0 may drop query parameters. Confirm before relying on UTMs for reporting (s
 
 `utm_content` equals the repo stem so Ads Manager names, filenames, and reports line up.
 
+Ready-to-paste destination URLs for every first-flight stem are at the end of `campaign-v3/copy-to-paste.txt`.
+
 ## Tracking notes (do not invent coverage)
 
 - Marketing site (`lit-solutions.tech`) can forward bounded UTMs onto signup links after consent. This flight’s approved destination is the **app host**, so that handoff may never run.

@@ -36,7 +36,7 @@ Stop if the trial path requires a card or does not offer Essentials.
 | Trial-Landscape | `facebook-trial.png` | A | 7 days free. $49/mo after. | 7-day trial. No card. | `facebook-trial` |
 | Feed | `ig-feed-know.png` | C | Know what you have. | Lots, serials, history. | `ig-feed-know` |
 | Feed | `ig-feed-went.png` | A | Know where it went. | Lots, serials, history. | `ig-feed-went` |
-| Feed | `ig-portrait-receive.png` | D | Track lots and serials. | Essentials from $49/mo. | `ig-portrait-receive` |
+| Feed | `ig-portrait-receive.png` | D | Track lots and serials. | Essentials is $49/mo. | `ig-portrait-receive` |
 | Stories | `ig-story-find.png` | C | Know what you have. | 7-day trial. No card. | `ig-story-find` |
 | Stories | `ig-story-scan.png` | C | Know where it went. | 7-day trial. No card. | `ig-story-scan` |
 
@@ -61,6 +61,7 @@ Stop if the trial path requires a card or does not offer Essentials.
 |---|---|---|---|
 | `linkedin-square.png` | A | Inventory you can explain. | `linkedin-square` |
 | `linkedin-number.png` | B | Know what you have. Know where it went. | `linkedin-number` |
+| `facebook-trial.png` (optional landscape) | C | 7-day Essentials trial. No card. | `facebook-trial` |
 
 7. Destination with UTMs (`utm_source=linkedin`, `utm_medium=paid-social`, `utm_content` as above).
 8. CTA: **Sign up**.
