@@ -4,7 +4,6 @@ Destination URL: https://inventory.lit-solutions.tech
 Display URL: inventory.lit-solutions.tech
 Signup path (same host): https://inventory.lit-solutions.tech/api/auth/login?mode=signup
 Offer: 7-day Essentials trial. No card. $49/mo after.
-Canonical pack: campaign-v3/
 This sheet supersedes the shorter copy inside lts-inventory-ads-v3.zip.
 Do not paste fulfillment, purchasing, transfers, customer counts, or savings.
 
